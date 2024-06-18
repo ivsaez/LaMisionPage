@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "LaMision",
   "resources": {
-    "hash": "sha256-Rji9ImBpBN2TW3g2r3oVzH1f9Hq+a4FjJgpN3yOxsJ4=",
+    "hash": "sha256-88yN1zzwvajcHP+9ETfLfdQTwjStNErhi/YYSer6v8I=",
     "jsModuleNative": {
       "dotnet.native.8.0.3.zt6zj8k8pe.js": "sha256-D4sYBYmDfH/YekgYRgX959/2RG6k28sJSHmcsn+iikk="
     },
@@ -31,8 +31,8 @@
       "Items.wasm": "sha256-egaN8inNuFtSGCtvsGlHtrV3yA6tRcom/de17eln9K8=",
       "ItemsLang.wasm": "sha256-1Vt4cpdpPsoF0TNtjrgLFRh0BOGOHSszii2Fa8NaiQY=",
       "ItemTypes.wasm": "sha256-HY2QqXwI/C67ipSi1pDTAKFZCqAzib9MnNX2SwCCN+s=",
-      "LaMision.Core.wasm": "sha256-ABNggO9iPO2eQC45Rzwjz6Rgn89wCZXAr0ZBLXw3rF0=",
-      "LaMision.wasm": "sha256-AVQnODGnAIulb4PK1w2zPNJ2kN6k2y7/peVd9ZWD3VA=",
+      "LaMision.Core.wasm": "sha256-5/WHKPe7zL9cYZen5tCZEsQfg5oInWDPAyZrIeGN6K0=",
+      "LaMision.wasm": "sha256-0sSjCYW963trGUD0aRLk3QR28nY4/O2umk+yWT/tFEI=",
       "Languager.wasm": "sha256-Fx3dyJxTtLRNTnXQCNKff3WtbccGQW33YhHIZbF2Aiw=",
       "Logic.wasm": "sha256-uLamXAnB95PHgfQ6Ta80r2LHITx2MYZFalYY8uZl608=",
       "Mapping.wasm": "sha256-69TNh8VRKUsQvPWtD/Rxzv6wzGH2f70jHOXpyCJ3XwM=",
